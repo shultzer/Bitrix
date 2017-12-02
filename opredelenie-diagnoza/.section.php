@@ -1,6 +1,6 @@
 <?
-$sSectionName = "Для пациента";
-$arDirProperties = Array(
-   "description" => "Узнай свой диагноз"
-);
+    $sSectionName    = "Для пациента";
+    $arDirProperties = [
+      "description" => "Узнай свой диагноз",
+    ];
 ?>

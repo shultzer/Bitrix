@@ -1,7 +1,7 @@
 <?
-  require($_SERVER[ "DOCUMENT_ROOT" ] . "/bitrix/header.php");
-  $APPLICATION->SetTitle("Выбор симптома");
-  $APPLICATION->AddChainItem("Выбор симптома");
+    require( $_SERVER[ "DOCUMENT_ROOT" ] . "/bitrix/header.php" );
+    $APPLICATION->SetTitle("Выбор симптома");
+    $APPLICATION->AddChainItem("Выбор симптома");
 ?>
     <br>
 <? $APPLICATION->IncludeComponent(
@@ -68,4 +68,4 @@
   ],
   FALSE
 ); ?><br>
-    <br><? require($_SERVER[ "DOCUMENT_ROOT" ] . "/bitrix/footer.php"); ?>
+    <br><? require( $_SERVER[ "DOCUMENT_ROOT" ] . "/bitrix/footer.php" ); ?>
