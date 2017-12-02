@@ -1,0 +1,3 @@
+[16-Oct-2017 08:11:29 Europe/Minsk] PHP Fatal error:  Using $this when not in object context in /home/aritmolo/public_html/bitrix/modules/main/classes/general/main.php on line 1440
+[16-Oct-2017 08:11:36 Europe/Minsk] PHP Fatal error:  Using $this when not in object context in /home/aritmolo/public_html/bitrix/modules/main/classes/general/main.php on line 1440
+[16-Oct-2017 08:19:44 Europe/Minsk] PHP Fatal error:  Cannot redeclare cmp() (previously declared in /home/aritmolo/public_html/local/templates/.default/components/bitrix/iblock.element.add.form/feedback/result_modifier.php:16) in /home/aritmolo/public_html/local/templates/.default/components/bitrix/iblock.element.add.form/feedback/result_modifier.php on line 28
